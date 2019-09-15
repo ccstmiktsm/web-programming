@@ -18,7 +18,7 @@
 }
 
 .greenize:hover{
-  background-color: rgb(101, 199, 104);
+  background-color: rgb(60, 156, 64);
   color: white;
 }
 
@@ -29,7 +29,7 @@
 }
 
 .redize:hover{
-  background-color: rgb(189, 88, 88);
+  background-color: rgb(158, 61, 61);
   color: white;
 }
 
