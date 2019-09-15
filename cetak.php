@@ -2,9 +2,9 @@
 <html>
 <head>
     <title>Print Member</title>
-    <link rel="stylesheet" href="css/style.css" media="screen">
+    <link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
     <script>
-        function print(){
+        function printer(){
             window.print();
         }
     </script>
@@ -43,5 +43,10 @@
             </div>
         </div>
     </div>
-        <body>
+        </body>
+        <br><br>
+        <div style="margin-left:20px;">
+            <a href="javascript:void(0);" onclick="printer();" class="btnq greenize">Print</a>
+            <a href="index.php" class="btnq redize">Kembali</a>
+        </div>
 </html>
